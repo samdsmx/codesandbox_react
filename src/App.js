@@ -8,7 +8,7 @@ const movies = [
   },
   {
     name: "Terminator",
-    available: 3
+    available: 4
   }
 ];
 
